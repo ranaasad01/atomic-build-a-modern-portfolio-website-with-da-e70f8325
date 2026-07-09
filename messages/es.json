@@ -1,1 +1,119 @@
-{}
+{
+  "nav": {
+    "brand": "Alex Mercer",
+    "home": "Inicio",
+    "projects": "Proyectos",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "cta": "Hablemos"
+  },
+  "footer": {
+    "tagline": "Creando productos digitales reflexivos con código limpio y diseño agudo.",
+    "nav_label": "Navegación",
+    "connect_label": "Conectar",
+    "copyright": "© {year} {name}. Todos los derechos reservados."
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "name": "Alex Mercer",
+    "role": "Desarrollador Full-Stack",
+    "description": "Creo experiencias digitales elegantes que viven en la intersección entre ingeniería limpia y diseño reflexivo.",
+    "cta_primary": "Ver Mi Trabajo",
+    "cta_secondary": "Ponte en Contacto",
+    "scroll_hint": "Desplázate para explorar",
+    "available": "Disponible para trabajar",
+    "badge_building": "Actualmente construyendo",
+    "badge_open": "Abierto a oportunidades",
+    "card_desc": "Creando experiencias digitales que importan",
+    "headline_1": "Diseñador y Desarrollador",
+    "headline_2": "Creando productos digitales hermosos y funcionales",
+    "headline_accent": "con propósito",
+    "social_proof": "De confianza para startups y marcas establecidas",
+    "subtext": "Diseño y construyo experiencias web modernas que combinan estética con usabilidad."
+  },
+  "projects": {
+    "heading": "Trabajos Seleccionados",
+    "subheading": "Una selección curada de proyectos construidos con precisión y propósito.",
+    "view_all": "Ver Todos los Proyectos",
+    "view_project": "Ver Proyecto",
+    "live_demo": "Demo en Vivo",
+    "source_code": "Código Fuente",
+    "label": "Trabajos destacados",
+    "view_case": "Ver estudio de caso"
+  },
+  "skills": {
+    "heading": "Habilidades y Tecnologías",
+    "subheading": "Las herramientas y tecnologías que utilizo para dar vida a las ideas.",
+    "cta": "Ver mi trabajo",
+    "label": "Habilidades y experiencia",
+    "point_1": "Diseño y prototipado UI/UX",
+    "point_2": "Desarrollo frontend y optimización",
+    "point_3": "Estrategia de marca y productos digitales",
+    "subtext": "Especializado en diseño web moderno y desarrollo full-stack"
+  },
+  "about": {
+    "heading": "Sobre Mí",
+    "subheading": "Un poco sobre quién soy y qué me impulsa.",
+    "bio_1": "Soy un desarrollador full-stack con más de 5 años de experiencia creando aplicaciones web rápidas, accesibles y hermosamente diseñadas.",
+    "bio_2": "Mi trabajo abarca desde startups en etapa inicial hasta empresas establecidas, siempre enfocándome en entregar software de calidad que los usuarios amen.",
+    "download_cv": "Descargar CV",
+    "years_exp": "Años de Experiencia",
+    "projects_shipped": "Proyectos Entregados",
+    "clients": "Clientes Satisfechos"
+  },
+  "contact": {
+    "heading": "Trabajemos Juntos",
+    "subheading": "¿Tienes un proyecto en mente? Me encantaría escuchar sobre él.",
+    "name_label": "Tu Nombre",
+    "name_placeholder": "Jane Smith",
+    "email_label": "Correo Electrónico",
+    "email_placeholder": "jane@example.com",
+    "message_label": "Mensaje",
+    "message_placeholder": "Cuéntame sobre tu proyecto...",
+    "submit": "Enviar Mensaje",
+    "success": {
+      "again": "Enviar otro mensaje",
+      "body": "Gracias por comunicarte. Me pondré en contacto pronto.",
+      "title": "¡Mensaje enviado!"
+    },
+    "availability": "Disponible actualmente para trabajo freelance",
+    "badge": "Ponte en contacto",
+    "errors": {
+      "email_invalid": "Por favor ingresa una dirección de correo válida",
+      "email_required": "El correo es requerido",
+      "message_required": "El mensaje es requerido",
+      "message_short": "El mensaje debe tener al menos 10 caracteres",
+      "name_required": "El nombre es requerido",
+      "name_short": "El nombre debe tener al menos 2 caracteres"
+    },
+    "form": {
+      "chars": "caracteres",
+      "email_label": "Correo",
+      "email_placeholder": "tu@correo.com",
+      "message_label": "Mensaje",
+      "message_placeholder": "Cuéntame sobre tu proyecto...",
+      "name_label": "Nombre",
+      "name_placeholder": "Tu nombre",
+      "sending": "Enviando...",
+      "submit": "Enviar mensaje"
+    },
+    "or_find_me": "O encuéntrame en",
+    "response_note": "Me pondré en contacto dentro de 24 horas"
+  },
+  "cta": {
+    "button_primary": "Iniciar un proyecto",
+    "heading": "¿Listo para crear algo extraordinario?",
+    "label": "Trabajemos juntos",
+    "subtext": "Siempre estoy abierto a nuevas oportunidades y proyectos interesantes."
+  },
+  "services": {
+    "cta": "Discute tu proyecto",
+    "heading": "Qué ofrezco",
+    "label": "Servicios",
+    "subtext": "Diseño y desarrollo integral para productos web y digitales"
+  },
+  "testimonials": {
+    "heading": "Qué dicen los clientes",
+    "label": "Testimonios"
+  }
+}

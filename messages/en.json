@@ -1,1 +1,119 @@
-{}
+{
+  "nav": {
+    "brand": "Alex Mercer",
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Let's Talk"
+  },
+  "footer": {
+    "tagline": "Building thoughtful digital products with clean code and sharp design.",
+    "nav_label": "Navigation",
+    "connect_label": "Connect",
+    "copyright": "© {year} {name}. All rights reserved."
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Alex Mercer",
+    "role": "Full-Stack Developer",
+    "description": "I craft elegant digital experiences that live at the intersection of clean engineering and thoughtful design.",
+    "cta_primary": "View My Work",
+    "cta_secondary": "Get In Touch",
+    "scroll_hint": "Scroll to explore",
+    "available": "Available for work",
+    "badge_building": "Currently building",
+    "badge_open": "Open to opportunities",
+    "card_desc": "Crafting digital experiences that matter",
+    "headline_1": "Designer & Developer",
+    "headline_2": "Creating beautiful, functional digital products",
+    "headline_accent": "with purpose",
+    "social_proof": "Trusted by startups and established brands",
+    "subtext": "I design and build modern web experiences that blend aesthetics with usability."
+  },
+  "projects": {
+    "heading": "Selected Work",
+    "subheading": "A curated selection of projects built with precision and purpose.",
+    "view_all": "View All Projects",
+    "view_project": "View Project",
+    "live_demo": "Live Demo",
+    "source_code": "Source Code",
+    "label": "Featured work",
+    "view_case": "View case study"
+  },
+  "skills": {
+    "heading": "Skills & Technologies",
+    "subheading": "The tools and technologies I use to bring ideas to life.",
+    "cta": "See my work",
+    "label": "Skills & expertise",
+    "point_1": "UI/UX design & prototyping",
+    "point_2": "Frontend development & optimization",
+    "point_3": "Brand strategy & digital products",
+    "subtext": "Specializing in modern web design and full-stack development"
+  },
+  "about": {
+    "heading": "About Me",
+    "subheading": "A little about who I am and what drives me.",
+    "bio_1": "I'm a full-stack developer with over 5 years of experience building web applications that are fast, accessible, and beautifully designed.",
+    "bio_2": "My work spans from early-stage startups to established companies, always with a focus on shipping quality software that users love.",
+    "download_cv": "Download CV",
+    "years_exp": "Years Experience",
+    "projects_shipped": "Projects Shipped",
+    "clients": "Happy Clients"
+  },
+  "contact": {
+    "heading": "Let's Work Together",
+    "subheading": "Have a project in mind? I'd love to hear about it.",
+    "name_label": "Your Name",
+    "name_placeholder": "Jane Smith",
+    "email_label": "Email Address",
+    "email_placeholder": "jane@example.com",
+    "message_label": "Message",
+    "message_placeholder": "Tell me about your project...",
+    "submit": "Send Message",
+    "success": {
+      "again": "Send another message",
+      "body": "Thanks for reaching out. I'll be in touch soon.",
+      "title": "Message sent!"
+    },
+    "availability": "Currently available for freelance work",
+    "badge": "Get in touch",
+    "errors": {
+      "email_invalid": "Please enter a valid email address",
+      "email_required": "Email is required",
+      "message_required": "Message is required",
+      "message_short": "Message must be at least 10 characters",
+      "name_required": "Name is required",
+      "name_short": "Name must be at least 2 characters"
+    },
+    "form": {
+      "chars": "characters",
+      "email_label": "Email",
+      "email_placeholder": "your@email.com",
+      "message_label": "Message",
+      "message_placeholder": "Tell me about your project...",
+      "name_label": "Name",
+      "name_placeholder": "Your name",
+      "sending": "Sending...",
+      "submit": "Send message"
+    },
+    "or_find_me": "Or find me on",
+    "response_note": "I'll get back to you within 24 hours"
+  },
+  "cta": {
+    "button_primary": "Start a project",
+    "heading": "Ready to create something great?",
+    "label": "Let's work together",
+    "subtext": "I'm always open to new opportunities and interesting projects."
+  },
+  "services": {
+    "cta": "Discuss your project",
+    "heading": "What I offer",
+    "label": "Services",
+    "subtext": "End-to-end design and development for web and digital products"
+  },
+  "testimonials": {
+    "heading": "What clients say",
+    "label": "Testimonials"
+  }
+}
